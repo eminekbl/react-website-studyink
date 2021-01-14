@@ -1,4 +1,4 @@
-# Studyink
+# Studyink-Website
 
 <img width="25px" alt="" src="https://simpleicons.org/icons/react.svg">This project was bootstrapped with [Create React App.](https://github.com/facebookincubator/create-react-app) 
 
