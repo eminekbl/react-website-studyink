@@ -17,7 +17,6 @@ export default function App() {
       <Counts />
       <Advantages />
       <Cards />
-      <Main />
       <HassleFree />
       <Carousel />
       <Footer />
